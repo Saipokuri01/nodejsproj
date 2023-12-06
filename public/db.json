@@ -1,0 +1,40 @@
+{"Stocks": [{
+    "StockID":"AAPL",
+    "Name":"Apple Inc",
+    "Price": 189.79,
+    "AmountInvested": 20000,
+    "Profit": -444,
+    "ProfitPercentage": -0.095
+  },
+  {
+    "StockID":"MSFT",
+    "Name":"Microsoft Corp",
+    "Price": 378.61,
+    "AmountInvested": 1000,
+    "Profit": 55,
+    "ProfitPercentage": 0.055
+  },
+  {
+    "StockID":"AMZN",
+    "Name":"Amazon.com Inc",
+    "Price": 147.73,
+    "AmountInvested": 5000,
+    "Profit": 500,
+    "ProfitPercentage": 10
+  },
+  {
+    "StockID":"TSLA",
+    "Name":"Tesla Inc",
+    "Price": 236.08,
+    "AmountInvested": 7000,
+    "Profit": 14000,
+    "ProfitPercentage": 200
+  },
+  {
+    "StockID":"INTC",
+    "Name":"Intel Corporation",
+    "Price": 44.08,
+    "AmountInvested": 500,
+    "Profit": 100,
+    "ProfitPercentage": 20
+  }]}
